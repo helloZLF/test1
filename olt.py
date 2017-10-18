@@ -20,6 +20,7 @@ def test():
         else:
             print('重新输入!')
             continue
+        
 
 if __name__ =='__main__':
-    test()
+    test()    test()
